@@ -1,4 +1,4 @@
-# Task5# 📊 Titanic Dataset - Exploratory Data Analysis (EDA)
+# Task5#  Titanic Dataset - Exploratory Data Analysis (EDA)
 
 ##  Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to understand patterns, trends, and relationships between different features such as survival, age, gender, and passenger class.
@@ -38,7 +38,7 @@ The dataset contains information about Titanic passengers such as:
 
 ---
 
-## 📊 Steps Performed
+##  Steps Performed
 
 ### 1. Data Loading
 - Loaded dataset using Pandas
